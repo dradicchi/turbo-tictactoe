@@ -1,5 +1,20 @@
 # turbo-tictactoe
 
+           |   |   |   |   |   | O 
+        ---------------------------
+           |   |   | O |   |   |   
+        ---------------------------
+           |   |   |   |   |   |   
+        ---------------------------
+         X |   |   | X |   |   |   
+        ---------------------------
+           | X | X |   |   |   |   
+        ---------------------------
+           |   |   | O |   |   |   
+        ---------------------------
+         O |   | O |   |   |   |   
+
+
 A command line tic-tac-toe game with a configurable board.
 
 This program is slightly inspired in a case study from the book "Common LISP: A Gentle Introduction to Symbolic Computation - David S. Touretzky".
