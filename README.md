@@ -6,7 +6,7 @@ This program is slightly inspired in a case study from the book "Common LISP: A 
 As a special characteristic, its design addopts a recursive-functional approach, because I like tail recursive functions...
 
 HOW TO PLAY:
-run >> clisp turbo-ttt.lisp
+- run >> clisp turbo-ttt.lisp
 
 FEATURES:
 - Supports two human players
